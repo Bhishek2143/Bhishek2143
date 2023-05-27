@@ -4,7 +4,7 @@
 <h2>About Me </h2>
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="35%" height="35%" align="right" alt="Github" src="https://github.com/Bhishek2143/Bhishek2143/assets/75635417/7f7d85c3-d23a-438d-a4ae-8ea9af8871a9" />
+<img width="30%" height="30%" align="right" alt="Github" src="https://github.com/Bhishek2143/Bhishek2143/assets/75635417/7f7d85c3-d23a-438d-a4ae-8ea9af8871a9" />
 <li>
 <b>Name:</b> Bhishek Kumar</li>
 <li>
