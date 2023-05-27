@@ -68,13 +68,13 @@
     <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
   </a>
 </p>
-<br>
 <hr/>
 <br>
 <!-- Contribution -->
 <p align="center">
   <img width="75%" src="https://github.com/Bhishek2143/Bhishek2143/assets/75635417/967527c3-32b0-46e9-801e-c424f8e1cf3b" alt="Github">
   </p>
+  <br>
 <details>
   <summary><b>:computer: &nbsp;Main Tech Knowledge</b></summary>
   <br>
@@ -107,7 +107,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 <details>
   <summary><b>:brain: &nbsp;Others, Always Learning</b></summary>
-  <br/>
+  <br>
 
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
@@ -130,7 +130,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 <details open="false">
   <summary><b>:gear: &nbsp;GitHub Stats</b></summary>
-  <br/>
+  <br>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhishek2143&hide_border=true&theme=nightowl" />
     </p>
@@ -139,5 +139,5 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
     </p>
 </details>
 <hr/>
-<br/>
+<br>
 <img align="right" src="https://komarev.com/ghpvc/?username=Bhishek2143" alt="Bhishek"/>
