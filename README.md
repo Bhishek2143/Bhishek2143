@@ -1,5 +1,5 @@
 <p align="center">
-<img width="80%" src="https://github.com/Bhishek2143/Bhishek2143/assets/75635417/4d8f2d47-6711-4793-87fc-cdf1ce3628ef" alt="Bhishek">
+<img src="https://github.com/Bhishek2143/Bhishek2143/assets/75635417/4d8f2d47-6711-4793-87fc-cdf1ce3628ef" alt="Bhishek">
   </p>
 <!-- About ME  -->
 <h2>About Me </h2>
