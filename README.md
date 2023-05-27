@@ -21,7 +21,6 @@
 <li>
 <b>Mail:</b> bhishek21403@gmail.com
 </li>
-<br>
 &nbsp;
 <!-- Contact  -->
   <p align="center">
