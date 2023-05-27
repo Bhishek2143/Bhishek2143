@@ -30,7 +30,7 @@
 </p>
 <!-- Skills -->
 <hr>
-<p align="center"> Skills & Tools </p>
+<h2>Skills & Tools </h2>
 
 <p align="center">
   <a href="https://www.javascript.com/">
