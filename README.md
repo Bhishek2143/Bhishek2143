@@ -71,11 +71,8 @@
   </a>
 </p>
 <hr/>
-<br>
-
-<!-- Contribution -->
 <img width="20%" align="center" alt="Github" src="https://github.com/Bhishek2143/Bhishek2143/assets/75635417/320f3c3e-3d47-4cd4-910d-cdf541ccb33d" />
-<br>
+<!-- Contribution -->
 <details>
   <summary><b>:computer: &nbsp;Main Tech Knowledge</b></summary>
   <br/>
