@@ -3,7 +3,7 @@
 <h2>About Me </h2>
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="25%" align="right" alt="Github" src="https://github.com/Bhishek2143/Bhishek2143/assets/75635417/7f7d85c3-d23a-438d-a4ae-8ea9af8871a9" />
+<img width="35%" align="right" alt="Github" src="https://github.com/Bhishek2143/Bhishek2143/assets/75635417/7f7d85c3-d23a-438d-a4ae-8ea9af8871a9" />
 <li>
 <b>Name:</b> Bhishek Kumar</li>
 <li>
@@ -27,7 +27,7 @@
   <a href="mailto:bhishek21403@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bhishek-kumar-958b14208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<br><br><br><br><br>
 <!-- Skills -->
 <hr>
 <p align="center"> Skills & Tools </p>
