@@ -11,7 +11,7 @@
 <b>Nationality:</b> Indian
 </li>
 <li>
-<b>Loves:</b> Coding and Gaming -///-
+<b>Loves:</b> Coding, Anime, Gaming -///-
 </li>
 <li>
 <b>Gender:</b> He/Him/Male
