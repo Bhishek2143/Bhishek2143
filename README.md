@@ -1,7 +1,5 @@
 <br>
-<p align="center">
 <img src="https://github.com/Bhishek2143/Bhishek2143/assets/75635417/4d8f2d47-6711-4793-87fc-cdf1ce3628ef" alt="Bhishek">
-</p>
 <!-- About ME  -->
 <h2>About Me </h2>
 
@@ -139,4 +137,4 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 <hr/>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Bhishek2143" alt="Bhishek"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=Bhishek2143" alt="Bhishek"/>
