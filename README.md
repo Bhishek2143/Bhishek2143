@@ -69,9 +69,9 @@
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
   </a>
+<img width="20%" align="center" alt="Github" src="https://github.com/Bhishek2143/Bhishek2143/assets/75635417/320f3c3e-3d47-4cd4-910d-cdf541ccb33d" />
 </p>
 <hr/>
-<img width="20%" align="center" alt="Github" src="https://github.com/Bhishek2143/Bhishek2143/assets/75635417/320f3c3e-3d47-4cd4-910d-cdf541ccb33d" />
 <!-- Contribution -->
 <details>
   <summary><b>:computer: &nbsp;Main Tech Knowledge</b></summary>
