@@ -19,7 +19,7 @@
 <b>Hobbys:</b> Tech Stuff, Singing, Workout
 </li>
 <li>
-<b>Mail:</b> bhishek21403@gmail.com
+<b>Mail:</b> mailto:bhishek21403@gmail.com
 </li>
 <br>
 &nbsp;
